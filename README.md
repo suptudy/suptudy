@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Rstudio-61DAFB?style=for-the-badge&logo=Rstudio&logoColor=75AADB"/></a>&nbsp
+  <img src="https://img.shields.io/badge/R-61DAFB?style=for-the-badge&logo=Rstudio&logoColor=75AADB"/></a>&nbsp
 </p>
 <h3 align="center"><b>Frameworks, Platforms and Libraries / IDEs, Editors</b></h3>
 <p align="center">
