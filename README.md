@@ -26,6 +26,9 @@
    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=node.js&logoColor=white"/></a>&nbsp
+   <img src="https://a11ybadges.com/badge?logo=streamlit"/></a>&nbsp
+   <img src="https://a11ybadges.com/badge?logo=snowflake"/></a>&nbsp
+   <img src="https://a11ybadges.com/badge?logo=tableau"/></a>&nbsp
    
 </p>
 <h3 align="center"><b>Databases</b></h3> 
