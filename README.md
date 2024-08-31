@@ -39,6 +39,7 @@
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/></a>&nbsp
+   <img src="https://a11ybadges.com/badge?logo=slack"/></a>&nbsp
 </p>
 
 <hr>
