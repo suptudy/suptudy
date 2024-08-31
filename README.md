@@ -27,11 +27,24 @@
    <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=node.js&logoColor=white"/></a>&nbsp
    
 </p>
-<h3 align="center"><b>Databases</b></h3>
+<h3 align="center"><b>Databases</b></h3> 
 <p align="center">
    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
 </p>
+
+<h3 align="center"><b>Platform</b></h3>
+<p align="center">
+   <img src="https://a11ybadges.com/badge?logo=dbt"/></a>&nbsp
+</p>
+
+<h3 align="center"><b>Work Env</b></h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/></a>&nbsp
+</p>
+
 <hr>
 <!---
 suptudy/suptudy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
