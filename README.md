@@ -20,6 +20,7 @@
 </p>
 <h3 align="center"><b>Frameworks, Platforms and Libraries / IDEs, Editors</b></h3>
 <p align="center">
+   <img src="https://a11ybadges.com/badge?logo=dbt"/></a>&nbsp
    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/></a>&nbsp
    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/></a>&nbsp
@@ -31,11 +32,6 @@
 <p align="center">
    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
-</p>
-
-<h3 align="center"><b>Platform</b></h3>
-<p align="center">
-   <img src="https://a11ybadges.com/badge?logo=dbt"/></a>&nbsp
 </p>
 
 <h3 align="center"><b>Work Env</b></h3>
